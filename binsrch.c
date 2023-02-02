@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+//Useless comment again
 int binsearch(int [], int, int, int);
 int str_int(char []);
 int main(int argc, char* argv[]){
